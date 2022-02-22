@@ -19,5 +19,3 @@ puts favorite_number.round()
 puts favorite_number.ceil()
 puts favorite_number.floor()
 puts Math.sqrt(36)
-
-
